@@ -1,0 +1,6 @@
+[package]
+name = "attributes"
+version = "0.0.1"
+authors = ["Bruce Mitchener <bruce.mitchener@gmail.com>"]
+
+[dependencies]
